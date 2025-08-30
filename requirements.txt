@@ -1,7 +1,8 @@
 numpy
 pandas
 matplotlib
-opencv-python
+opencv-python-headless
+# opencv-python
 scikit-learn
 tensorflow
 keras
@@ -17,6 +18,5 @@ google-api-python-client
 earthengine-api
 geemap
 streamlit
-
 pillow
 pandas
