@@ -1,0 +1,41 @@
+
+---
+
+# 📌 3. `.gitignore`
+
+Keeps your repo clean by ignoring unnecessary files.  
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.ipynb
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model & large files (handled by Git LFS or remote download)
+*.h5
+*.hdf5
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# directories
+app/outputs/analysis_artifacts/
+app/outputs/processed_dataset/
+app/outputs/sprint3_unet_artifacts/
+app/outputs/sprint4_multiclass_artifacts/
