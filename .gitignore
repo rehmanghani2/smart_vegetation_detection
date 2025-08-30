@@ -25,7 +25,7 @@ venv/
 Thumbs.db
 
 # Model & large files (handled by Git LFS or remote download)
-*.h5
+# *.h5
 *.hdf5
 
 # Logs
