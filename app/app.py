@@ -355,10 +355,7 @@ with tab3:
     st.markdown("""
         This application demonstrates **Land Cover Segmentation** using a **UNet model** trained on satellite imagery.  
     It was developed in multiple **sprints**:
-    - ✅ Sprint 1–3: Data prep + UNet model training  
-    - ✅ Sprint 4: Multiclass UNet training  
-    - ✅ Sprint 5: Metrics analysis (IoU, Dice, etc.)  
-    - ✅ Sprint 6: Inference + Streamlit UI  
+   
 
     **Features:**
     - Upload your own satellite image
