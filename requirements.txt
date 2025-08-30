@@ -1,7 +1,7 @@
 numpy
 pandas
 matplotlib
-opencv-python-headless
+
 # opencv-python
 scikit-learn
 tensorflow
